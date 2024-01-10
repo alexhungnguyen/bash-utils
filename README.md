@@ -7,3 +7,4 @@
 ```
 brew install peco
 ```
+
